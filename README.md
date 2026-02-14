@@ -216,15 +216,11 @@ Planned features:
 
 # 📸 Screenshots
 
-*(Add screenshots here)*
+<img width="1879" height="876" alt="Screenshot 2026-02-14 230150" src="https://github.com/user-attachments/assets/791c1624-46ca-4396-b425-b920a9f4e8de" />
 
-Example:
 
-```
-/screenshots/home.png
-```
+<img width="1870" height="870" alt="image" src="https://github.com/user-attachments/assets/56f45f3c-f535-4754-a699-19b23a7e41ce" />
 
----
 
 # 💡 Learning Objectives
 
